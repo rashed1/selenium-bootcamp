@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AmazonApp/AmazonApp.iml" filepath="$PROJECT_DIR$/AmazonApp/AmazonApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CignaApp/CignaApp.iml" filepath="$PROJECT_DIR$/CignaApp/CignaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CitibankApp/CitibankApp.iml" filepath="$PROJECT_DIR$/CitibankApp/CitibankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CnnApp/CnnApp.iml" filepath="$PROJECT_DIR$/CnnApp/CnnApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacebookApp/FacebookApp.iml" filepath="$PROJECT_DIR$/FacebookApp/FacebookApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selenium-bootcamp.iml" filepath="$PROJECT_DIR$/selenium-bootcamp.iml" />
+    </modules>
+  </component>
+</project>
