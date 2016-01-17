@@ -38,7 +38,7 @@ public class Base {
     public void setUp(@Optional("false")Boolean useCloudEnv, @Optional("rashed1") String userName, @Optional("2601a7b6-4b39-4712-992a-59ddcd85694c")
     String key, @Optional("Windows 10")String OS, @Optional("firefox") String browser,
                       @Optional("43.0.1") String browserVersion,
-                      @Optional("https://www.aetna.com") String url)throws IOException {
+                      @Optional("http://www.cigna.com") String url)throws IOException {
 
         if(useCloudEnv==true){
             //run on cloud
@@ -106,12 +106,12 @@ public class Base {
     }
 
     //find by by css
-    public void clickOnCss(String locator) {
+    public void clickByCss(String locator) {
         driver.findElement(By.cssSelector(locator)).click();
     }
 
     //find by Xpath
-    public void typeByXpath(String locator) {
+    public void clickByXpath(String locator) {
         driver.findElement(By.xpath(locator)).click();
     }
 
